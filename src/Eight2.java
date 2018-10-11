@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class eight2 {
+public class Eight2 {
     public static void main(String[] args) {
 
 

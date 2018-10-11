@@ -1,4 +1,4 @@
-public class eight3 {
+public class Eight3 {
     public static void main(String[] args) {
 
         char[][] answers = {

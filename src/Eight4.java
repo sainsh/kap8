@@ -1,4 +1,4 @@
-public class eight4 {
+public class Eight4 {
     public static void main(String[] args) {
 
         int[][] employeeTime = {{2, 4, 3, 4, 5, 8, 8},
